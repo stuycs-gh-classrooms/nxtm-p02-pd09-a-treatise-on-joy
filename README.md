@@ -9,6 +9,8 @@
 ### Project Description
 Provide a high-level description of your project. Include explanatory links if you think they will be helpful.
 
+I'm going to start by making a digital version of the game Connect 4 <https://www.cbc.ca/kids/games/all/connect-4> in processing. Then, if and when I get the normal version working, I'm going to try to code in a variant; wraparound connect 4, where the board operates as though the top and bottom, right and left sides are contiguous; they wrap around. 
+
 ### Skill Usage
 Explain what skills from this semester you will be using in this project, and how they will be used.
 
