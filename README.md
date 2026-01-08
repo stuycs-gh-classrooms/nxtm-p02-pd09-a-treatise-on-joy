@@ -36,13 +36,13 @@ IF keyboard commands are up and running I'll add mouse support.
 What classes will you be creating for this project? Include the instance variables and methods that you believe you will need. You will be required to create at least 2 different classes. If you are going to use classes similar to those we've made for previous assignments, you will have to add new features to them.
 
 slot class:
-boolean filled
-int color
+* boolean filled
+* int color
 
 void display
 
 board class:
-boolean won
+* boolean won
 
 boolean check4 // checks to see if any straight 4s exist/if the game is won
 void updateBoard
