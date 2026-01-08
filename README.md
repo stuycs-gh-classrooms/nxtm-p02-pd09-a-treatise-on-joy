@@ -14,13 +14,20 @@ I'm going to start by making a digital version of the game Connect 4 <https://ww
 ### Skill Usage
 Explain what skills from this semester you will be using in this project, and how they will be used.
 
+This project will rely heavily on a two-d array. I'll also be using multiple classes, making use of object oriented programming. 
+
 ### Controls
 How will your program be controlled? List all keyboard commands and mouse interactions.
 
 Keyboard Commands:
-- LIST OF COMMANDS HERE
+- r : reset
+- 1-7 to select a column of the board
+- space or enter to make a move (drop a coin once a column has been selected)
 
 Mouse Control:
+
+IF keyboard commands are up and running I'll add mouse support.
+
 - Mouse movement:
 - Mouse pressed:
 
